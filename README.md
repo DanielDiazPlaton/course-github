@@ -1,2 +1,1 @@
-# course-github
-This repository has been created by using git and github
+I am editing the README file. Adding some more details about the project description.
